@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\monster\onedrive\senior 1\cs 405\raytracing\cs405assignment1\source.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\monster\onedrive\senior 1\cs 405\raytracing\cs405assignment1\source.cpp(248): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CS405Assignment1.vcxproj -> C:\Users\MONSTER\OneDrive\Senior 1\CS 405\RayTracing\Debug\CS405Assignment1.exe

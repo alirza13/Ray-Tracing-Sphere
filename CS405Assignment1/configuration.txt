@@ -1,0 +1,4 @@
+Height 3840
+Weight 2160
+Sphere 500 500 500 500
+Light 0 0 -50 1
